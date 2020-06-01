@@ -1,4 +1,18 @@
 I am going to see if I can send these changes to
 github. I set up a remote already, and noticed that
 github new repositories do not show up in your
-computer filing system. 
+computer filing system.
+
+I have successfully sent changes to github!
+the practice is as follows:
+
+create a new repository on github
+
+create a new remote on github
+
+create a new directory in your local computer
+
+open it in atom and make changes
+
+git add, then git commit and git push to send to
+github.
